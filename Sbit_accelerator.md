@@ -1,6 +1,6 @@
 # SBIT_ACCELERATOR.md
 ## מפרט טכני: יחידת חישוביות הוליסטית ומאיץ AI מבוסס Sbit (Sbit Architectural Blueprint)
-### פרויקט: Omni Systems Balanca Add-on / UNIHOCS Framework
+### פרויקט: Omni Systems Balanca Add-on  Framework
 ### 1. מבוא (Introduction)
 רכיב ה-**Sbit** (Superpositioned Holistic Bit) הוא יחידת חישוביות רב-ממדית, וירטואלית-הולוגרפית, סגורה בפני עצמה ואדפטיבית. יחידה זו מהווה את התשתית החישובית הנושאת של המערכת ההוליסטית, ומספקת יכולת אינטגרציה תדרית, מבנית ותודעתית במודל **Plug-and-Play** מלא עבור כל מערכת חיצונית או פנימית.
 רכיב זה משלב באופן מובנה:
